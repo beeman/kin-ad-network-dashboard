@@ -1,0 +1,4 @@
+node_modules
+dist
+coverage
+src/react-app-env.d.ts
